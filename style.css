@@ -10,9 +10,9 @@ body {
     font-family: "Courier New";
 }
 
-.formula {
+.formula-box {
     border: 1px solid black;
-    padding: 20px 0;
+    padding: 20px 10px;
     font-size: 40px;
     font-family: "Arial";
     letter-spacing: 8px;
