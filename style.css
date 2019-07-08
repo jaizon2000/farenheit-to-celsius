@@ -1,13 +1,15 @@
 html {
     background-color: gray;
 }
+
 body {
     background-color: white;
     padding: 10px 150px 40px;
     margin: auto;
     width: 600px;
-    font-family:  "Courier New";
+    font-family: "Courier New";
 }
+
 .formula {
     border: 1px solid black;
     padding: 20px 0;
@@ -15,9 +17,11 @@ body {
     font-family: "Arial";
     letter-spacing: 8px;
 }
+
 h1 {
     word-spacing: 7px;
 }
+
 button#btn {
     font-size: 18px;
 }
