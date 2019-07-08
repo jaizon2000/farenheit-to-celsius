@@ -1,4 +1,6 @@
-// Conver F --> C
+/*
+Convert F --> C 
+*/
 
 // Event Listeners
 document.getElementById('btn').addEventListener('click', main);
@@ -12,5 +14,5 @@ function main() {
     let celsius = (f - 32) * (5 / 9);
 
     // OUTPUT - display answer
-    document.getElementById('result').innerHTML = celsius.toFixed(2);
+    document.getElementById('result').innerHTML = celsius.toFixed(2); //.toFixed(x) display num by x decimal places
 }
